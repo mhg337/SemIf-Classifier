@@ -1,0 +1,12 @@
+.venv/
+*.egg-info/
+__pycache__/
+.pytest_cache/
+.claude/
+*.pyc
+*.egg-info/
+results*.jsonl
+reranker-results*.jsonl
+models/
+cache/
+Miniconda3-latest-Linux-x86_64.sh

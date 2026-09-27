@@ -1,0 +1,6 @@
+.venv
+miniconda3
+models/
+__pycache__/
+temp_*.jsonl
+*.md
